@@ -14,7 +14,7 @@
 |10|[@artemiiShabanov](https://github.com/artemiiShabanov)|#7 Гайд по персонажам Marvel|https://github.com/artemiiShabanov/surf-ios|1.(1) @alexfilimon <br>2.(6) @leshchinskaya|
 |11|[@Kushslush](https://github.com/Kushslush)|#2 Рецепты коктейлей||1. <br>2.|
 |12|[@eleenee](https://github.com/eleenee)|#16 Мой сад||1. <br>2.|
-|13|[@Teyran](https://github.com/Teyran)|#15 RestRoulette||1. <br>2.|
+|13|[@Teyran](https://github.com/Teyran)|#15 RestRoulette|https://github.com/Teyran/Restroulette|1. <br>2.|
 |14|[@sunlight21](https://github.com/sunlight21)|#12 Справочник по "Игре престолов"||1. <br>2.|
 |15|[@TairusDjons](https://github.com/TairusDjons)|#7 Гайд по персонажам Marvel||1. <br>2.|
 |16|[@Balagnese](https://github.com/Balagnese)|#14 Редактор конспектов||1. <br>2.|
